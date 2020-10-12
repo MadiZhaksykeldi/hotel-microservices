@@ -18,12 +18,12 @@
 
 ## 4. Appendix
 1) localhost:8761 Eureka Server
-(https://sun9-33.userapi.com/impg/iLbuBZaxMeJtwhcoeSwfU7qVJyAEeMEK6A9Ngw/1lM-n-p57uw.jpg?size=548x228&quality=90&proxy=1&sign=1ea9f56de9e544cd9381a5f152fa4090)
+![Eureka](https://sun9-33.userapi.com/impg/iLbuBZaxMeJtwhcoeSwfU7qVJyAEeMEK6A9Ngw/1lM-n-p57uw.jpg?size=548x228&quality=90&proxy=1&sign=1ea9f56de9e544cd9381a5f152fa4090)
 2) localhost:8081/bookings list of bookings 
-(https://sun9-3.userapi.com/impg/zJTHVmUFYA1g7eDVKfHfBLXRnbRCVIgw0voyYg/WgFnp9w5I0k.jpg?size=520x400&quality=90&proxy=1&sign=55b7b32ba81622ea729f3e5e73a0cb53)
+![Bookings](https://sun9-3.userapi.com/impg/zJTHVmUFYA1g7eDVKfHfBLXRnbRCVIgw0voyYg/WgFnp9w5I0k.jpg?size=520x400&quality=90&proxy=1&sign=55b7b32ba81622ea729f3e5e73a0cb53)
 3) localhost:8082/deals list of hotels 
-(https://sun9-23.userapi.com/impg/br195nl4myMCdjpguJJf25KUQpHzRFI244t0VQ/MH_mktxzrCQ.jpg?size=496x468&quality=90&proxy=1&sign=9e8d507cab7b0cf9d9e61ce0974a2290)
+![Deals](https://sun9-23.userapi.com/impg/br195nl4myMCdjpguJJf25KUQpHzRFI244t0VQ/MH_mktxzrCQ.jpg?size=496x468&quality=90&proxy=1&sign=9e8d507cab7b0cf9d9e61ce0974a2290)
 4) localhost:8083/cases list of issues 
-(https://sun9-56.userapi.com/impg/vNsEEdUshWvlDt3_9a4zwbYjup_okHIWayH9uQ/YNN68YB9aHc.jpg?size=438x285&quality=90&proxy=1&sign=081c0457f203b6dd4b6420cedb997742)
+![Support](https://sun9-56.userapi.com/impg/vNsEEdUshWvlDt3_9a4zwbYjup_okHIWayH9uQ/YNN68YB9aHc.jpg?size=438x285&quality=90&proxy=1&sign=081c0457f203b6dd4b6420cedb997742)
 5) localhost:8084 website 
-(https://sun9-11.userapi.com/impg/_kzN3XR4fKrA6s70b1OUC8hsQaU4WW_lIo9cUw/Y7LUi2UTcjM.jpg?size=468x247&quality=90&proxy=1&sign=9b4bf13735608ab78e68493621c3353f)
+![Website](https://sun9-11.userapi.com/impg/_kzN3XR4fKrA6s70b1OUC8hsQaU4WW_lIo9cUw/Y7LUi2UTcjM.jpg?size=468x247&quality=90&proxy=1&sign=9b4bf13735608ab78e68493621c3353f)
