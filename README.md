@@ -1,6 +1,6 @@
 # Endterm Project – Hotel Systemm
 ## 1. Introduction
-1.1 Technologies: Eureka Client, Eureka Server, MySQL, JS.
+1.1 Technologies: Eureka Client, Eureka Server, MySQL, JS, Hystrix, Kafka, Zuul.
 1.2 Purpose: simplifying hotel processes
 
 ## 2. Services: 
