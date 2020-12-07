@@ -1,4 +1,4 @@
-# Midterm Project – Hotel Systemm
+# Endterm Project – Hotel Systemm
 ## 1. Introduction
 1.1 Technologies: Eureka Client, Eureka Server, MySQL, JS.
 1.2 Purpose: simplifying hotel processes
@@ -7,7 +7,7 @@
 1. Support Service – information about issues that may happened, yes/no with description
 2. Deals Service – rooms, description, price, ratings
 3. Bookings – who own which room
-4. View – Collects all microservices, gathers information
+4. View – Collects all microservices, gathers information, frontend
 
 ![Diagram](https://sun9-59.userapi.com/impg/EM_0wXCrQae8XEl2kP359gSRJWEXGEgQZnPh3w/UbkZd7FPpdQ.jpg?size=387x276&quality=90&proxy=1&sign=b78cfea944f2dbabceb45ff97389c289)
 
@@ -26,4 +26,8 @@
 4) localhost:8083/cases list of issues 
 ![Support](https://sun9-56.userapi.com/impg/vNsEEdUshWvlDt3_9a4zwbYjup_okHIWayH9uQ/YNN68YB9aHc.jpg?size=438x285&quality=90&proxy=1&sign=081c0457f203b6dd4b6420cedb997742)
 5) localhost:8084 website 
-![Website](https://sun9-11.userapi.com/impg/_kzN3XR4fKrA6s70b1OUC8hsQaU4WW_lIo9cUw/Y7LUi2UTcjM.jpg?size=468x247&quality=90&proxy=1&sign=9b4bf13735608ab78e68493621c3353f)
+![Website](https://sun9-60.userapi.com/impg/DVV02P7-exH_8n8WG1RW0q4976R8Em8j9I6EkA/0Bkw5ePORuI.jpg?size=1920x939&quality=96&proxy=1&sign=36433119bce74bbdf8895b8fcc67276a)
+6) localhost:8081/hystrix.stream http://localhost:8081/actuator/hystrix.stream
+![Hystrix](https://sun9-66.userapi.com/impg/IJAgBaWu_RXNBAcbNzEUDFwWnReBPMxsOFw7aQ/V3215Q3HMTY.jpg?size=832x492&quality=96&proxy=1&sign=d4c6b6eddc83f95e8c4416e64e788c95)
+7) localhost:8090 
+![Kafka](https://sun9-36.userapi.com/impg/3VBZeP-vy9wh7UdMP9gH7HmMxCWnRZN46w6VkA/nFe4kMpvzIM.jpg?size=879x134&quality=96&proxy=1&sign=1cbfa3e5a5b3047075bf6bfb62c312fa)
